@@ -1,4 +1,9 @@
 conexus
 =======
 
-RDF syndication service.
+Decentralized RDF data syndication.
+
+License
+=======
+
+MIT
